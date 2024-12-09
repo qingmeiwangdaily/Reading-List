@@ -5,7 +5,7 @@
   
 * _Nov. 26, 2024_ **Pending**, (Fengjiao Gong)
 
-* _Nov. 19, 2024_ **Pending**, (Qingmei Wang)
+* _Nov. 19, 2024_ **Pending**, (Yitian Wang)
 
 * _Nov. 12, 2024_ **Pending**, (Fanmeng Wang)
 
@@ -44,7 +44,7 @@
 * _Mar. 7, 2024_ [ResNet with one-neuron hidden layers is a Universal Approximator](https://proceedings.neurips.cc/paper/2018/hash/03bfc1d4783966c69cc6aef8247e0103-Abstract.html), (Shen Yuan, [Slides](slides/pre_2024_3_7.pdf))
 
 * _Feb. 29, 2024_ [Pre-training sequence, structure, and surface features for comprehensive protein representation learning](https://openreview.net/forum?id=BEH4mGo7zP), (Minjie Cheng, [Slides](slides/pre_2024_2_29.pdf))
-    
+  
 * _Jan. 18, 2024_ [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/abs/2106.09685), (Yuxin Wu, [Slides](slides/pre_2024_01_18.pdf))
 
 * _Jan. 11, 2024_ [ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving](https://arxiv.org/abs/2309.17452), (Angxiao Yue, [Slides](slides/pre_2024_1_11.pdf))
@@ -60,7 +60,7 @@
 * _Nov. 9, 2023_ [Clifford group equivariant neural networks](https://arxiv.org/pdf/2305.11141.pdf), (Angxiao Yue, [Slides](slides/pre_2023_11_09.pdf))
 
 * _Nov. 2, 2023_ [Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning](https://dl.acm.org/doi/pdf/10.1145/3466772.3467038?casa_token=q3hPh85BVZ0AAAAA:BtcQ5mOsozvou6qSCfP3RbIEqG5jbCAcH6Kt1p7n2D4kdD8jR7o9tuteoXolWGr71UwlvOaJa1nyBcg), 
-(Fengjiao Gong, [Slides](slides/pre_2023_11_02.pdf))
+  (Fengjiao Gong, [Slides](slides/pre_2023_11_02.pdf))
   
 *  _Oct. 26, 2023_ [Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency](https://openreview.net/forum?id=OJ4mMfGKLN), (Yuxin Wu, [Slides](slides/pre_2023_10_26.pdf))
 
